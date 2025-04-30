@@ -1,2 +1,2 @@
-# sifre-olusturucu12k
+# password-generator12k
 This is a password generator in python
